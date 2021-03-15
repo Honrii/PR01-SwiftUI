@@ -1,0 +1,88 @@
+<shop_products>
+    <product>
+        <nom>Mitt</nom>
+        <price>25,00€</price>
+        <desc>Muy práctico en el entrenamiento. Duro y resistente. Composición: Espuma revestida de polipiel</desc>
+        <tipus>Entreno</tipus>
+    </product>
+    <product>
+        <nom>PAO Striking</nom>
+        <price>80,30€</price>
+        <desc>Composición: Espuma dura y lona. Talla: 60 x 30 x 15 cm</desc>
+        <tipus>Entreno</tipus>
+    </product>
+    <product>
+        <nom>PAO Iraní </nom>
+        <price>62,60€</price>
+        <desc>Composición: cuero. Dimensiones: 43 x 24 x 10 cm</desc>
+        <tipus>Entreno</tipus>
+    </product>
+    <product>
+        <nom>Peucos Competición</nom>
+        <price>28,20€</price>
+        <desc>Con protección superior para alto rendimiento. Composición: Polipiel, Espuma y Tejido Elástico</desc>
+        <tipus>Proteccions</tipus>
+    </product>
+    <product>
+        <nom>Guantillas WTF</nom>
+        <price>28,20€</price>
+        <desc>Guantes cortos para entrenar o competiciones en Taekwondo. Composición: Polipiel, esponja y tejido elástico</desc>
+        <tipus>Proteccions</tipus>
+    </product>
+    <product>
+        <nom>Peto Oficial WT Reversible</nom>
+        <price>38,60€</price>
+        <desc>Reversible. Resistente y ligero. Para competición y entrenamiento. Modelo patentado. Composición:Polipiel, Espuma dura y Tejido elástico. Color: Azul-Rojo </desc>
+        <tipus>Proteccions</tipus>
+    </product>
+    <product>
+        <nom>Casco Oficial WT</nom>
+        <price>38,60€</price>
+        <desc>Para competición y entrenamiento.Composición: Espuma recubierta de pintura plástica. Colores: Azul y Rojo </desc>
+        <tipus>Proteccions</tipus>
+    </product>
+    <product>
+        <nom>Dobok WT Básico Bordado</nom>
+        <price>26,00€</price>
+        <desc>Chaqueta con cuello blanco y TAEKWONDO bordado en la espalda. Pantalón con cintura elástica. Cómodo y ligero. Ideal para principiantes. Composición: Poliéster 80%, Algodón 20%</desc>
+        <tipus>Equipacions</tipus>
+    </product>
+    <product>
+        <nom>Dobok cuello negro WT</nom>
+        <price>27,00€</price>
+        <desc>Dobok de cuello negro. Chaqueta TAEKWONDO bordado en la espalda. Pantalón ancho con cintura elástica. Ligero. Composición: Poliéster 80%, Algodón 20%</desc>
+        <tipus>Equipacions</tipus>
+    </product>
+    <product>
+        <nom>Cinturón adulto Rojo 310cm</nom>
+        <price>5,20€</price>
+        <desc>Resistente y duradero. Composición: Algodón 100%</desc>
+        <tipus>Equipacions</tipus>
+    </product>
+    <product>
+        <nom>Cinturón adulto Verde 310cm</nom>
+        <price>5,20€</price>
+        <desc>Resistente y duradero. Composición: Algodón 100%</desc>
+        <tipus>Equipacions</tipus>
+    </product>
+    <product>
+        <nom>Coquilla Femenina completa</nom>
+        <price>14,60€</price>
+        <desc>Composición: Espuma de goma, cubierto de plástico y polipiel</desc>
+        <tipus>Combat</tipus>
+    </product>
+     <product>
+        <nom>Coquilla Masculina completa</nom>
+        <price>16,70€</price>
+        <desc>Composición: Polipiel, espuma y plástico resistente para una mejor protección</desc>
+        <tipus>Combat</tipus>
+    </product>
+     <product>
+        <nom>Protector Bucal Simple Gel</nom>
+        <price>7,30€</price>
+        <desc>Composición: Gelfit Color: Blanco</desc>
+        <tipus>Combat</tipus>
+    </product>
+</shop_products>
+
+    
